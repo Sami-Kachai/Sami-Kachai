@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://i.ibb.co/LxM82Y7/SK-Logo-2.png" alt="cover" border="0"/>
+<img width="50%" height = "50%" src="https://i.ibb.co/PcRNfFH/SK-Logo-2.png" alt="cover" border="0"/>
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
