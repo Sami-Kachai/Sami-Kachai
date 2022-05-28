@@ -56,7 +56,7 @@
 
 ![snake gif](https://github.com/Sami-Kachai/Sami-Kachai/blob/output/github-contribution-grid-snake.gif)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://c.tenor.com/aY4Z1Si1VeIAAAAM/laugh-slam.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
