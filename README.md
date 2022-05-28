@@ -3,7 +3,7 @@
 <img width="50%" height = "50%" src="https://i.ibb.co/PcRNfFH/SK-Logo-2.png" alt="cover" border="0"/>
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://c.tenor.com/FoCsxk0SP2UAAAAj/italian-hand-italian-hands.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sami-Kachai.Sami-Kachai)
