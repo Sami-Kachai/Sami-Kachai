@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sami-Kachai.Sami-Kachai)
 
 </p>
-  <div size='20px'> Hi! My name is Sami KACHAI, a <strong>Fullstack</strong> developer from Tunisia <img src = "https://1.bp.blogspot.com/-hsGBrl-UhDg/YEVpCj8xQMI/AAAAAAAA5B8/ycHIgb60cMYeqI4YfPp5-Rhmu3KfcfRnQCLcBGAsYHQ/s0/Flag_of_Tunisia.gif" width = "20"/> . Thank You for taking the time to view my GitHub Profile :smile: 
+  <div size='20px'> Hi! My name is Sami KACHAI, a <strong>Fullstack</strong> developer from Tunisia <img src = "https://1.bp.blogspot.com/-hsGBrl-UhDg/YEVpCj8xQMI/AAAAAAAA5B8/ycHIgb60cMYeqI4YfPp5-Rhmu3KfcfRnQCLcBGAsYHQ/s0/Flag_of_Tunisia.gif" width = "20"/> . Thank You for taking the time to view my GitHub Profile :smile: check out my professional Github Profile at: https://github.com/samikachai
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "100px"/></h2>
